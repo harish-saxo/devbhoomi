@@ -1,18 +1,6 @@
-﻿###################
-# compiled source #
-###################
-*.com
-*.class
-*.dll
-*.exe
-*.pdb
-*.dll.config
-*.cache
-*.suo
-*.user
-
+﻿
 ###############
 # Directories #
 ###############
-bin/
-obj/
+.jekyll-cache/
+_site/
